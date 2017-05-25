@@ -1,0 +1,14 @@
+Redis的安装和部署
+http://www.cnblogs.com/it-cen/p/4295984.html
+
+Redis命令操作详解
+http://www.cnblogs.com/it-cen/p/4297273.html
+
+Redis 数据同步机制分析 
+http://blog.csdn.net/houjixin/article/details/27680183
+
+分析Redis架构设计 
+http://blog.csdn.net/a600423444/article/details/8944601
+
+Redis关键点（rehash） 
+http://blog.csdn.net/jsjwk/article/details/7964108
