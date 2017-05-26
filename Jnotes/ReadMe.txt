@@ -12,6 +12,7 @@ learning list
 2.熟悉数据库优化
 2.熟悉数据库Oracle/mysql 
 2.熟悉掌握redis、Memcache缓存
+2.spring boot, activeMQ ,NoSQL DB,Mongo DB
 3.熟悉高并发系统设计
 3.分布式系统架构
 4.熟悉缓存技术

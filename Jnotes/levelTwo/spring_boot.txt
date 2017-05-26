@@ -1,0 +1,8 @@
+spring boot 英文说明
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-installing-the-cli
+
+Spring Boot 学习第一步（搭建初步环境） 
+http://blog.csdn.net/cool__wang/article/details/49466609
+
+错误：Unsupported major.minor version 51.0
+出现这个错误的原因是build path 与 java compiler level不匹配，注意是在maven run的环境设置里面
