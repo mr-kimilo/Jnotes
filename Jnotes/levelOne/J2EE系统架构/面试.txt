@@ -1,0 +1,14 @@
+缓存命中率
+http://www.cnblogs.com/dinglang/p/6117309.html
+
+list 与数组
+数据库事务级别
+
+虚拟机垃圾回收条件
+http://bbs.csdn.net/topics/330120571/
+如果a,b两对象是全局对象 或某一个对象是static对象，不会回收。 
+如果a,b两对象是new对象，并且不是全局对象，并且不被使用，会回收
+
+前端刷新框架
+restful和web service的区别
+自我介绍
